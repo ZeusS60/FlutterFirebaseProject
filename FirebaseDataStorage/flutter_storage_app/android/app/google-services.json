@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212786517198",
+    "project_id": "study-app-f4526",
+    "storage_bucket": "study-app-f4526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212786517198:android:adc53c1c41615f2b7d6c9f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_storage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212786517198-tbr0qhh49dpdrhqccjd0bdvfa68drl5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZSrCFQS1ePTfc2NsBfVF_834CSYorvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212786517198-tbr0qhh49dpdrhqccjd0bdvfa68drl5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
