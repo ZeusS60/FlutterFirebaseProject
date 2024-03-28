@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680991272830",
+    "project_id": "brew-coffe-8f908",
+    "storage_bucket": "brew-coffe-8f908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680991272830:android:f6e0c7f67ead9ed2758d2f",
+        "android_client_info": {
+          "package_name": "com.example.select_coffe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXfSwNbqAU5CdncWwxzHE3gbDGuohCM_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
